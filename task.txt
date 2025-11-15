@@ -1,0 +1,35 @@
+Images 1 is 64x64, 32 level images. These images are shown as coded arrays that 
+contain an alphanumeric character for each pixel. The range of these characters is 0-9 and 
+A-V, which corresponds to 32 levels of gray.
+
+Perform the following tasks:
+1. Display the original image on screen.
+2. Threshold the image and convert it into binary image.
+3. Determine a one-pixel thin image of the objects.
+4. Determine the outline(s).
+5. Label the different objects.
+
+In your report, you should include the followings for Image 1 and Image 2.
+1. an introduction to the problem,
+2. a description of your algorithm and flow chart,
+3. screen captures of every stage of the image processing, and
+4. a discussion and conclusion including an explanation on why you choose the method 
+employed in your project, which investigation you performed, and what lessons you 
+learned
+
+
+图 1 为 64×64 的 32 级灰度图像。这些图像以编码数组的形式展示，每个像素用一个字母数字字符表示。这些字符的范围是 0 到 9 以及 A 到 V，对应 32 级灰度。
+
+执行以下任务：
+1. 在屏幕上显示原始图像。
+2. 对图像进行阈值处理并将其转换为二值图像。
+3. 确定物体的单像素厚度图像。
+4. 确定轮廓（或轮廓线）。
+5. 给不同的物品贴上标签。
+
+在您的报告中，对于图片 1 和图片 2，您应当包含以下内容。
+1. 对这个问题的介绍
+2. 关于您的算法的描述以及流程图
+3. 图像处理过程的每一个阶段的屏幕截图，并且
+4. 一段讨论和结论，其中包括对您为何选择在项目中采用的特定方法的解释、您进行了何种调查以及您从中吸取了哪些教训的阐述。
+
