@@ -1,0 +1,8 @@
+p_dataset_26——训练集
+图片1.1 1.2——不完美识别的结果
+图片2.1 2.2——完美识别的结果
+train_and_classify_grid——这是是主程序
+preprocess_char——处理和裁剪图像大小的子程序
+extractMyHOGFeatures特征提取的子程序
+charClassifier_Grayscale_HOG_SVM——训练好的数据集，可直接用来识别目标，没有就要调用子程序先生成这个文件才能识别
+debug_pipeline、diagnose_segmentation——这两个都是优化时候做测试的程序，目前识别不需要调用
